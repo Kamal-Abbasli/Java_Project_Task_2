@@ -92,4 +92,4 @@ Update - PUT
 
 ------------------------------------------------------------------------------------------------------------
 
-How to Clone the Project i) Clone the repository git clone https://github.com/Aliyev7M/VistulaProject2
+How to Clone the Project i) Clone the repository git clone https://github.com/Kamal-Abbasli/Java_Project_Task_2.git
